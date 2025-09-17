@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Sebastian 👋
 
-<!--
-**sebu1998/sebu1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Über mich
+- Umschulung zum Fachinformatiker Anwendungsentwicklung  
+- Interesse: Webentwicklung, C#, SQL, Netzwerke  
+- Aktuell: Projekte mit HTML, CSS, JavaScript und C#
 
-Here are some ideas to get you started:
+## 🔧 Skills
+![HTML5](https://img.shields.io/badge/Code-HTML5-orange)
+![CSS3](https://img.shields.io/badge/Style-CSS3-blue)
+![JavaScript](https://img.shields.io/badge/Script-JavaScript-yellow)
+![C#](https://img.shields.io/badge/Code-C%23-green)
+![SQL](https://img.shields.io/badge/Database-SQL-lightgrey)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebu1998&show_icons=true&theme=radical)
+
+## 🌍 Projekte
+- [C# Lernmappe](https://github.com/sebu1998/CsharpLernmappe)
+- [BMI Rechner](https://github.com/sebu1998/BMIRechner)
+- [Portfolio Website](https://bewerbung.sebastianbuehrmann.de)
