@@ -15,4 +15,4 @@
 ## 🌍 Projekte
 - [C# Lernmappe](https://github.com/sebu1998/CsharpLernmappe)  
 - [Bewerbungs Website](https://bewerbung.sebastianbuehrmann.de)
-- [Website] (https://sebastianbuehrmann.de) 
+- [Website](https://sebastianbuehrmann.de)
