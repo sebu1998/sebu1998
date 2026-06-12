@@ -43,7 +43,7 @@ Currently completing the German IHK degree in software development — *Fachinfo
 
 ### 🛤 How I got here
 
-Trained as a car mechatronics technician, then four years in underground construction — started as a laborer, ended up leading a crew in cable and pipeline network construction. Since 2024 I'm retraining as a software developer and working as a developer at a construction company in parallel.
+Trained as a car mechatronics technician, then four years in underground construction — started as a laborer, ended up leading a crew in cable and pipeline network construction. Since 2025 I'm retraining as a software developer and working as a developer at a construction company in parallel.
 
 The standard I keep from those years: software that people rely on at work has to keep working. No tools for the sake of tools.
 
