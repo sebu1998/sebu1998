@@ -17,10 +17,10 @@
 
 > Most repos are private (employer work and own products). Code walkthrough on request. Every project keeps documented decisions and a test suite.
 
-**🕐 [Stundenheld](https://sebu1998.github.io/stundenheld/)** · *Swift · SwiftUI · SwiftData · CloudKit · macOS + iOS*<br>
+**🕐 Stundenheld** · *Swift · SwiftUI · SwiftData · CloudKit · macOS + iOS*<br>
 Time tracking I use every single day: punch clock, projects, daily and weekly targets, statistics, iCloud sync. One Xcode project, two apps, one shared core. 184 tests, in daily use since July 2026. Replaced my earlier Laravel web version.
 
-**💰 [klar.](https://sebu1998.github.io/klar/)** · *Swift · SwiftUI · SwiftData · CloudKit*<br>
+**💰 klar.** · *Swift · SwiftUI · SwiftData · CloudKit*<br>
 Local-first iOS finance app: multiple accounts, line-item receipts, on-device OCR scanning, CSV bank import, four subscription types, honest month-end forecast. No servers, no tracking. ~150 tests, TestFlight beta prepared.
 
 **📡 KuRD-GNSS** · *React · TypeScript · GNSS/RTK · iOS + Android*<br>
